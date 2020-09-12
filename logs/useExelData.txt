@@ -1,0 +1,8 @@
+Sep 03, 2020 5:25:07 PM classwork.pom.testsuite.SampleAppSuite4 useExelData
+INFO: Dress search performed
+Sep 03, 2020 5:25:07 PM classwork.pom.testsuite.SampleAppSuite4 useExelData
+INFO: Search Successful
+Sep 03, 2020 5:25:09 PM classwork.pom.testsuite.SampleAppSuite4 useExelData
+INFO: Sign in button clicked
+Sep 03, 2020 5:25:11 PM classwork.pom.testsuite.SampleAppSuite4 useExelData
+INFO: email ID entered

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23503" started-at="2020-09-08T21:18:57 EDT" finished-at="2020-09-08T21:19:20 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23503" started-at="2020-09-08T21:18:57 EDT" finished-at="2020-09-08T21:19:20 EDT">
+      <class name="classwork.pom.testsuite.SampleAppSuite">
+        <test-method status="PASS" signature="bfClass()[pri:0, instance:classwork.pom.testsuite.SampleAppSuite@1f554b06]" name="bfClass" is-config="true" duration-ms="16310" started-at="2020-09-08T21:18:57 EDT" finished-at="2020-09-08T21:19:13 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfClass -->
+        <test-method status="PASS" signature="searchDress()[pri:1, instance:classwork.pom.testsuite.SampleAppSuite@1f554b06]" name="searchDress" duration-ms="1610" started-at="2020-09-08T21:19:13 EDT" finished-at="2020-09-08T21:19:15 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchDress -->
+        <test-method status="PASS" signature="inputButtons()[pri:5, instance:classwork.pom.testsuite.SampleAppSuite@1f554b06]" name="inputButtons" duration-ms="99" started-at="2020-09-08T21:19:15 EDT" finished-at="2020-09-08T21:19:15 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inputButtons -->
+        <test-method status="PASS" signature="signInClick()[pri:10, instance:classwork.pom.testsuite.SampleAppSuite@1f554b06]" name="signInClick" duration-ms="3892" started-at="2020-09-08T21:19:15 EDT" finished-at="2020-09-08T21:19:19 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInClick -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:classwork.pom.testsuite.SampleAppSuite@1f554b06]" name="quitBrowser" is-config="true" duration-ms="1514" started-at="2020-09-08T21:19:19 EDT" finished-at="2020-09-08T21:19:20 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- classwork.pom.testsuite.SampleAppSuite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

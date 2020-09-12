@@ -1,0 +1,2 @@
+Sep 03, 2020 4:56:12 PM classwork.logging.DataProviderAutoDemo homePage
+INFO: click on sign in button

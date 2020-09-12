@@ -1,0 +1,6 @@
+Sep 03, 2020 4:56:01 PM classwork.logging.DataProviderAutoDemo launch
+INFO: Chrome browser Launched
+Sep 03, 2020 4:56:05 PM classwork.logging.DataProviderAutoDemo launch
+INFO: Implicit wait time for 5 sec
+Sep 03, 2020 4:56:05 PM classwork.logging.DataProviderAutoDemo launch
+INFO: Pageload timeout 1 min
